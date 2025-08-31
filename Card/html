@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>project2</title>
+    <style>
+        body{
+            text-align: center;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .card{
+            height: 90vh;
+            width: 40vw;
+            padding: 7px;
+            border: 2px solid black;
+            border-radius: 7px;
+        }
+        .view{
+            margin: 5px;
+            text-align: center;
+            padding: 4px;
+            border: 2px solid #212121;
+            
+        }
+    </style>
+        
+</head>
+
+<body>
+    <div class="card">
+        <div class="img">
+            <img style="width:-webkit-fill-available;" src="img.jpg" alt="">
+        </div>
+        <div>
+            <span class="view" style="text-align: left;">nature</span>
+            <span class="view">lake</span>
+        </div>
+        <h2 style="margin-left: 7px;">Nature are calling...we always answer</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi facere deserunt expedita error iusto
+            molestiae facilis aliquid repudiandae dolor, aliquam odio minus temporibus fugit distinctio nesciunt
+            blanditiis quasi eaque quae veniam iste fuga voluptas!</p>
+        <span id="ab">
+            Read more
+        </span>
+
+    </div>
+
+</body>
+
+</html>
