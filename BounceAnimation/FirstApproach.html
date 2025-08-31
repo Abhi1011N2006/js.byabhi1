@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>project</title>
+    <style>
+        .box {
+            height: 93vh;
+            width: 97vw;
+            background-color: blue;
+            align-items: flex-end;
+            position: relative;
+
+        }
+        .spot{
+            height: 5px;
+            width: 5px;
+            background-color: aliceblue;
+            animation: second 2s linear 0.5s infinite ;
+            /* position: absolute;
+            bottom:15%;
+            left: 0; */
+        }
+
+        .object {
+            height: 70px;
+            width: 70px;
+            border-radius: 70px;
+            background-color: red;
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            animation: abhi 2s linear 0.5s infinite;
+        }
+        @keyframes second {
+            from{
+                transform: translate(80vw,15vh);
+            }
+            to{
+                transform: translate(17vw,15vh);
+            }
+
+        }
+
+        @keyframes abhi {
+            0% {
+                transform: none;
+            }
+
+            11.11% {
+                transform: translate(10vw, -32vh);
+            }
+
+            16.66% {
+                transform: translate(15vw, -40vh);
+
+            }
+
+            21.66% {
+                transform: translate(20vw, -32vh);
+
+            }
+
+            33.33% {
+                transform: translate(30vw, 0);
+
+            }
+
+            44.44% {
+                transform: translate(40vw, -32vh);
+
+            }
+
+            51.99% {
+                transform: translate(45vw, -40vh);
+
+            }
+
+            57% {
+                transform: translate(50vw, -32vh);
+
+            }
+
+            66.66% {
+                transform: translate(60vw, 0);
+
+            }
+
+            77.77% {
+                transform: translate(70vw, -32vh);
+
+            }
+
+            83.32% {
+                transform: translate(75vw, -40vh);
+
+            }
+
+            88.32% {
+                transform: translate(80vw, -32vh);
+
+            }
+
+            99.99% {
+                transform: translate(90vw, 0);
+
+            }
+
+        }
+    </style>
+</head>
+
+<body>
+    <div class="box">
+        <div class="spot"></div>
+        <div class="object">
+
+        </div>
+    </div>
+
+</body>
+
+</html>
