@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>netflix</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <div class="fi"><img
+                    src="https://images.ctfassets.net/y2ske730sjqp/1aONibCke6niZhgPxuiilC/2c401b05a07288746ddf3bd3943fbc76/BrandAssets_Logos_01-Wordmark.jpg?w=940">
+            </div>
+            <ol class="rst">
+                <li style="padding-top: 8px; font-size: 13px;">UNLIMITED TV SHOW & MOVIES</li>
+                <li id="join">join now</li>
+                <li id="sign">sign in</li>
+            </ol>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h1 style="margin-top: 72px; font-size: 3rem;">Only on Netflix</h1>
+
+            <div style="width: 65vw;font-size: 19px;">Netflix is the home of amazing original programming that you cant
+                find anywhere else.
+                Movies,
+                TV shows, specials and more, all tailored specifically to you.
+            </div>
+            <div>Your Next Watch</div>
+
+        </section>
+        <section class="pic">
+            <ol>
+                <li><img
+                        src="https://occ-0-3216-2186.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABU3UPQJOOBwzSaS3lQrubDYmByAAJaHv-nSnG0_i62IyKMWftC9y1_2-GuQEOJVnkddOB1hcX-Qi5rOpjKddturMduy_rQrL65HjsGG3rkRD0vuvYAe5ybZH7e0sGpmYwWZb2YfapXTs-X74NOGlpfQ_J4tEQtSiiOTNi0sxDZFs0v8bd3ATJ074mahMDUygtEr7KFwtdkHinF8KePstTNkjVpp2Ar_7xfF3bu_oMSr6MXJj7GJHdRA0Z7YrQA.jpg?r=02f">
+                    <h2>Rana Naidu</h2>
+                </li>
+                <li> <img
+                        src="https://occ-0-3216-2186.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABR_iZiIBOQRYPO_Au3JsvZtNtwz_LfAw-Q0JI3N8B7_XaLG5KHbYG8PKVTwHlEKRQ5QMKqQB0Bc69h5TSuGnfSsio9RB-UV_BD6ft5Tl8sUDtjndaaWng3LRqpumEr88269RvMkAbwoeOFI-sIESh5WoIZXO0Vx6Z8ieAicKZXr1e1eQJdiQ4R3Q2BA7UgcCnDb6wIHR9T6sI0LkCqZfjahNjLLx5et8NnYh-tcIeMnGho3UIIjzhvuGTwdoyrQ9o-6Kmf_q8P2KCNUo-mNI_sBR457efl1tFC__NLQk_MDuJQb7VJ7i6WbUSsUpgsnNWazsya4QP4uaZ5-ZmPKJ5UKcpw.jpg?r=ea2"
+                        alt="">
+                    <h2>Squid Game</h2>
+                </li>
+
+                <li><img src="https://occ-0-3216-2186.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABW8Xgd0EUE-oXACf6M5MemZgzM3RWLXmRb4kQYsX2-Tq6YHqQQh0-1dT9KwYKwJyrAod3LR0Q00L987brQ5hJHeHZCZCeFk9rEHeHZ4kX88bYaCfQ5U_QR66YVB2y2LQVAe5wlFYBu7b61uxl397qysxB8oB52yyeyMF_JN5b4H1shEYTdBwyk2-6EAgcomCZOxlWPIwP40Y6vPzZj0BGRg52kSDyQ_bXDw2ujxNh9LJIc2I-Ie5R-kfNq5RxQ.jpg?r=c0a"
+                        alt="">
+                    <h2>Ginny & Gorgia</h2>
+                </li>
+
+                <li> <img
+                        src="https://occ-0-3216-2186.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWkTVf5kHw7zL1dmaAXeK8gkktLnCiwPW7eomzolZDSfF9Nqfm02gCuppRy2RXc6Sw8vwBnz9CDveFOPE68FOvLbMZ4RpHewo7pReKJHwp-3eruBH1k6qEEwXfNXtXkCFJkk.jpg?r=abf"
+                        alt="">
+                    <h2>When Life Gives You Tangerians</h2>
+                </li>
+                <li style="color: white;margin-top: 63px; font-size: 37px;margin-left: 16px;">
+                    &gt;
+                </li>
+            </ol>
+        </section>
+        <section>
+            <div>Tv Dramas</div>
+            <ol>
+                <li><img
+                        src="https://occ-0-3216-3646.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdcdvVKBZPselYQzqx10-nhO1lN34TIlPir6g-vFvGqwH7x0X7GpEccMRkIeJ6vpUoF8SE3DRwktBKEC5r4R6RjvIpNokpCL_HZcIAVKSVVTf7W_ZrUBlpMnEbAXEsuGsjVM7XCTrWZ8UhlEQG91oO-PvH1fm7OBTVGVwP08qwZFj84WyooHhP4H4wJlaFw.jpg?r=3b5">
+                    <h2>The Royals</h2>
+                </li>
+                <li> <img
+                        src="https://occ-0-3216-3646.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdOdSuAwEvu_jZKZr4g_GHiP3YpfGSkqDi5yisAEpNVwAv-raxL1fcezQZn4aEu7ixtzlsbRg2GlY2_dkqo9QJyaJgz0Qkr1tH76wgOK9ulsSgZDe_QhgqxBTPeTJgIRGGSI.jpg?r=d40"
+                        alt="">
+                    <h2>All of Us Are Dead</h2>
+                </li>
+
+                <li><img src="https://occ-0-3216-3646.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSgwqqaa77rIXUjINFYIqfPlws_-MCGo--Z6Ajju7GEAkJXVOYfBO3ZwoPxlzrSgPFZI-uMA6JOGHXfhvhAePP9mk3mdLLxtX7UUIxVwOsXCe2DZa2qMFOIHj8Jx4qCDKc5jgAlIG-FmkIlFP61b0kzPxejGXUXSveQLGvTHkLCT6KwKU7L19uxud-OsXo3iJDBEpvf9GKdH5PTCRZY4m9HVVgf7dwFk3xSMQxS1LznO-GGMv9ZmU2KfJH-3f0J6tZxz-14VVxLdH0aaOJH4-EkqZSHvchUnenvJTYvmY--YJJ2aSJRHLUo0Q_6ZgDdHMWz8_GrfovnF27LPAaJcNH2_.jpg?r=824"
+                        alt="">
+                    <h2>Our Unwritten Seoul</h2>
+                </li>
+
+                <li> <img
+                        src="https://occ-0-3216-3646.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVHwufC2TYmY7piel8bPWwvkzFWTSDSkw-rDAfAjybbU9gEVzlaTr59OKGzLGO91NafROT3m6kJGGMGV4WtWpTd8Cxm2vbVuKUajTVW6HOcm0zWj63qcr7HBxl_I5eAVHkDb.jpg?r=adc">
+                    <h2>Weak Hero</h2>
+                </li>
+                <li style="color: white;margin-top: 63px; font-size: 37px;margin-left: 16px;">
+                    &gt;
+                </li>
+            </ol>
+        </section>
+        <section>
+            <div>Watch Together For Older Kids</div>
+            <ol>
+                <li><img
+                        src="https://occ-0-3216-3646.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRDc-cnVqrssAwUcUwKtpmcyKLgBnI2FEpjrCjLZT6LOnVktgaNSYtXCCvBGW0EWbAKjP1mJoAZ6JU72PC1a_tA9Rp31i5KJRvZJybfBtiP-pUYy96AquisPovRdV8slQAmepGcsDVQzcM_qUDzdZGPTTIczWyu8QfazIjAMWsz35zvd3AQhjHy1Q_ozGdjNkOkboY-ooQJdFTtx1jwkjQbrYsz-9S77cVmcKnOcxs9XgFMDeQwoi92kLOE0kFn5Nk8.jpg?r=b78">
+                    <h2>KpOp Demon Hunter </h2>
+                </li>
+                <li> <img
+                        src="https://occ-0-3216-3646.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYPvoYwl_shdOCU6wmP2SkVXl7IqNzAAl9ubjZlrmxAF7NtsW_17J9Clbt1vbb2yTJbfIb_y_mqcfjQf_-3gzehauO7eui0G7e7nyU1CdOdWLq-zUlQRlKiVPDGh9TshLBB3.jpg?r=208">
+                    <h2>The Worst Witch</h2>
+                </li>
+
+                <li><img
+                        src="https://occ-0-3216-3646.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRRssJ04QAhf0p6EA8Gg6rafURBeN0n_GClAyP861ClERP7Cp3pK_gnEdqmnOldTpyLgiQAIq0Lfk7nSBGIe1wFiaUzRMzDe93CoDPSxxyERb18kPq4FKgSYkVFaRrTLuCgp.jpg?r=ea6">
+                    <h2>Unicorn Academy</h2>
+                </li>
+
+                <li> <img
+                        src="https://occ-0-3216-3646.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQuANM6rM2o0z5qw5ec8JVmmAJY8ngrkdpUHY3uxXWSq6lztfgp-sUI8OQ_LkINF8OfTJY5ly6fY3OMamiGo1DA60a_YUuprPj8Q9DB31k2tNb9p3FuaBi8lhbSrYMdjtYAj.jpg?r=f16">
+                    <h2>The Unlisted</h2>
+                </li>
+                <li style="color: white;margin-top: 63px; font-size: 37px;margin-left: 16px;">
+                    &gt;
+                </li>
+            </ol>
+        </section>
+        <section>
+            <img id="back"
+                src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f562aaf4-5dbb-4603-a32b-6ef6c2230136/dh0w8qv-9d8ee6b2-b41a-4681-ab9b-8a227560dc75.jpg/v1/fill/w_1280,h_720,q_75,strp/the_netflix_login_background__canada__2024___by_logofeveryt_dh0w8qv-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvZjU2MmFhZjQtNWRiYi00NjAzLWEzMmItNmVmNmMyMjMwMTM2XC9kaDB3OHF2LTlkOGVlNmIyLWI0MWEtNDY4MS1hYjliLThhMjI3NTYwZGM3NS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.LOYKSxIDqfPwWHR0SSJ-ugGQ6bECF0yO6Cmc0F26CQs"
+                alt="">
+            <div class="content" style="text-align: center;">
+                <h2 style="font-size: 30px;">There's Even More To WAtch</h2>
+                <p style="margin-left: 51px; font-size: 22px; margin-bottom: 55px;">Netflix has an extensive library of
+                    feature films, documentaries, TV shows, anime, award-winning
+                    Netflix originals and more. Watch as much as you want, anytime you want.</p>
+                <span style="display: inline;
+                padding: 14px 2em;
+                font-size: 20px;
+                background: #e50914;
+                border-radius: 3px;
+            ">Join now</span>
+            </div>
+        </section>
+        <footer style="background-color: rgb(31, 29, 29); color: gray;">
+            <div style="margin: 78px 0px 45px;">Read about Netflix TV shows and movies and watch bonus video on tudum.com </div>
+
+            <div style="margin-bottom: 20px;">Question ? Contact Us.</div>
+            <ol>
+                <li> FAQ</li>
+                <li>help center</li>
+                <li>accound</li>
+                <li>media center</li>
+                <li>investor relation</li>
+                <li>jobs</li>
+                <li>ways to watch </li>
+                <li>terms of use</li>
+            </ol>
+            <div style="margin-bottom: 58px;"></div>
+
+        </footer>
+
+    </main>
+</body>
+
+</html>
